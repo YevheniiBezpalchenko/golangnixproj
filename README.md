@@ -6,4 +6,4 @@
  
  How to reach me send email on yevhenii.bezpalchenko@nure.ua
 
-This is my golang project repository which i created for nix education curses.
+**This is my golang project repository which i created for nix education curses.**
