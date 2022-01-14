@@ -1,4 +1,4 @@
-module Shop
+module github.com/YevheniiBezpalchenko/golangnixproj
 
 go 1.13
 
